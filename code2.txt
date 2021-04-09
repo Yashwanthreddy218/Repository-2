@@ -1,1 +1,8 @@
 //Substraction of two numbers program
+#include<stdio.h>
+int main
+{
+int a,b, substraction;
+printf("enter a number a and b");
+scanf("%d%d",&a&b);
+}
